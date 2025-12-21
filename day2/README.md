@@ -1,0 +1,3 @@
+1) understanding more about tasks can be spread across threads so that they can be done faster
+2) In this case each thread is working RGB values of a pixel keeping the alpha value the same 
+3) reiterating that there are blocks and each block can have less than maximum number of threads and we have to run n blocks so that we cover all the threads and n is given as (no of ops + thread_count)/thread_count
