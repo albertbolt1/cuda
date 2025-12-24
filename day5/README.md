@@ -1,0 +1,1 @@
+1) RELU is a function f(x) = max(0,x) 
